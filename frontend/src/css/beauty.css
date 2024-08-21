@@ -1,0 +1,35 @@
+.bg-gr{
+  background-image: url("product.webp");
+  background-size: cover;
+  height:80vh;
+}
+
+.tx-cl{
+  text-decoration-color: snow;
+}
+
+.pay-r{
+  background-image:url("payment.jpg");
+  background-size: cover;
+  height:80vh;
+}
+
+.bg-help{
+   background-image: url("Helpline.jpg");
+   height: 80vh;
+   background-size: cover;
+}
+
+.bg-error{
+  background-image: url("error.webp");
+  height: 60vh;
+  background-size: cover;
+}
+
+.ly{
+  background-color: "lightyellow";
+}
+
+.lry{
+  background-color: "lightgoldenrodyellow";
+}
