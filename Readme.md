@@ -14,6 +14,10 @@ npm run server
 5)To test our frontend 
 npm run client
 
+Screenshot
+
+![alt text](<Screenshot 2024-09-10 062750.png>)
+
 
 C-Cart is a robust e-commerce platform built with a MERN (MongoDB, Express, React, Node.js)
 stack, featuring a secure PayPal payment gateway integration. The application provides a
